@@ -7,4 +7,4 @@ Al explorar este repositorio, no solo encontrarás líneas de código y algoritm
 
 Unirme a este proyecto no solo fue un desafío académico, sino un compromiso personal con el crecimiento profesional. La herramienta no solo realiza el análisis de flujos de potencia, sino que también sirve como un testimonio tangible de mi viaje desde el aula hasta la aplicación práctica.
 
-Te invito a explorar este repositorio como un testigo digital de mi progreso, trazando la mejora constante desde el punto de partida hasta la culminación de mis estudios universitarios. ¡Acompáñame en este viaje donde la innovación y el aprendizaje se entrelazan para construir un futuro informático brillante! 💻🚀
+Te invito a explorar este repositorio como un testigo digital de mi progreso, trazando la mejora constante desde el punto de partida hasta la culminación de mis estudios universitarios. 💻🚀
